@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Practical2c</string>
+
+    <string name="col1">Name</string>
+    <string name="col2">Surname</string>
+    <string name="col3">Age</string>
+
+    <string name="row1Name">Jiyan</string>
+    <string name="row1Surname">Lathiya</string>
+    <string name="row1Age">20yr</string>
+
+    <string name="row2Name">Meet</string>
+    <string name="row2Surname">Dobariya</string>
+    <string name="row2Age">19yr</string>
+
+    <string name="row3Name">Jay</string>
+    <string name="row3Surname">Kotecha</string>
+    <string name="row3Age">20yr</string>
+
+
+</resources>
